@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "Banana",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 70,
+      "comment": "Fresh Banana's",
+      "date": "2022-09-13T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Muskmelon",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 80,
+      "comment": "Good for health",
+      "date": "2022-09-13T18:30:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "Gongura",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 125,
+      "comment": "fresh leafy vegetables are good",
+      "date": "2022-09-13T18:30:00.000Z",
+      "id": 11
+    },
+    {
+      "productName": "IPhone",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 70000,
+      "comment": "IPhone looks rich",
+      "date": "2022-09-15T18:30:00.000Z",
+      "id": 12
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
